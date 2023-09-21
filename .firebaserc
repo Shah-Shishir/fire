@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-auth-ad86e": {
+      "hosting": {
+        "fire": [
+          "fir-auth-ad86e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-auth-ad86e"
+  }
+}
